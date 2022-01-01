@@ -1,5 +1,7 @@
 Lab11FrontendLab#4
 
-hogehogehoge
-fugafuga
+
+hogehoge
+fugafugafuga
 no-fast-forward
+>>>>>>> conflict
