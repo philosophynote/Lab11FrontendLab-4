@@ -1,5 +1,5 @@
 Lab11FrontendLab#4
 
-hogehoge
+hogehogehoge
 fugafuga
 no-fast-forward
